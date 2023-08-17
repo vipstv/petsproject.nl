@@ -1,0 +1,252 @@
+ .u-section-1 {
+  background-image: url("images/AfbeeldingvanWhatsAppop2023-03-24om16.04.20.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1844px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 1168px;
+  height: auto;
+  width: 1002px;
+  margin: 64px auto 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 0 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 0 auto 0 39px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 327px;
+  width: 760px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 21px 30px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-group-2 {
+  min-height: 535px;
+  height: auto;
+  width: 1002px;
+  margin: 38px auto 39px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 0 22px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  margin: 0 auto 0 39px;
+}
+
+.u-section-1 .u-video-1 {
+  width: 532px;
+  height: 278px;
+  margin: 21px auto 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 21px 21px -18px 39px;
+}
+
+@media (max-width: 1399px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1812px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-group-2 {
+    height: auto;
+  }
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1901px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 61px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 10px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .u-section-1 .u-group-2 {
+    margin-top: 61px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-top: 13px;
+    padding-bottom: 13px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 401px;
+    height: 245px;
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-left: 76px;
+    margin-right: 76px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 667px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 1143px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 310px;
+    margin-top: 5px;
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 23px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 354px;
+    height: 217px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 21px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2303px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 1190px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 233px;
+    margin-top: 13px;
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 21px;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1395px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 1627px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 58px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 147px;
+    margin-top: 61px;
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .u-section-1 .u-group-2 {
+    min-height: 721px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 340px;
+    height: 177px;
+    margin-top: 61px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+}
