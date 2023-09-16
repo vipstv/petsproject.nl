@@ -1,2 +1,2 @@
 # petsproject.nl
-De website voor P.E.T.S.
+De website voor P.E.T.S
