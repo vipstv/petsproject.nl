@@ -10,7 +10,6 @@
 .u-section-1 .u-group-1 {
   width: 842px;
   min-height: 1690px;
-  height: auto;
   margin: 60px auto;
 }
 
@@ -47,12 +46,6 @@
   width: 570px;
   height: 299px;
   margin: 17px auto 0;
-}
-
-@media (max-width: 1399px) {
-  .u-section-1 .u-group-1 {
-    height: auto;
-  }
 }
 
 @media (max-width: 1199px) {

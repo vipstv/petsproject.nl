@@ -4,13 +4,13 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1234px;
+  min-height: 1255px;
 }
 
 .u-section-1 .u-image-1 {
   height: 329px;
   width: 791px;
-  margin: 14px auto 0 249px;
+  margin: 14px auto 0;
 }
 
 .u-section-1 .u-list-1 {
@@ -190,16 +190,6 @@
 
 .u-section-1 .u-text-14 {
   margin: 18px auto 0;
-}
-
-@media (max-width: 1399px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 1255px;
-  }
-
-  .u-section-1 .u-image-1 {
-    margin-left: auto;
-  }
 }
 
 @media (max-width: 1199px) {

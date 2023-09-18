@@ -51,7 +51,7 @@
     height: 208px;
   }
 } .u-section-2 {
-  background-image: linear-gradient(0deg, rgba(193,38,40,0.6), rgba(193,38,40,0.6)), url("images/test-clients-bg.png");
+  background-image: linear-gradient(0deg, rgba(193,38,40,0.6), rgba(193,38,40,0.6)), url('images/test-clients-bg.png');
   background-position: 50% 50%;
 }
 
@@ -163,7 +163,6 @@
 .u-section-2 .u-group-1 {
   width: 659px;
   min-height: 269px;
-  height: auto;
   margin: 0 auto 22px;
 }
 
@@ -180,12 +179,6 @@
 .u-section-2 .u-text-7 {
   font-style: italic;
   margin: 20px 8px 0;
-}
-
-@media (max-width: 1399px) {
-  .u-section-2 .u-group-1 {
-    height: auto;
-  }
 }
 
 @media (max-width: 1199px) {
