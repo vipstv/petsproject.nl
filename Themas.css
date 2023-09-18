@@ -1,13 +1,17 @@
  .u-section-1 {
   background-image: url("images/AfbeeldingvanWhatsAppop2023-03-24om16.04.20.jpg");
   background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
   min-height: 1400px;
 }
 
 .u-section-1 .u-group-1 {
   min-height: 1136px;
   width: 1002px;
-  margin: 30px auto 60px calc(((100% - 1140px) / 2) + 69px);
+  height: auto;
+  margin: 29px auto 60px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -51,6 +55,7 @@
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  
   margin: 0 auto;
 }
 
@@ -65,18 +70,19 @@
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
   transition-duration: 0.5s;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  
   margin: 0 auto;
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
+  .u-section-1 .u-sheet-1 {
     min-height: 1154px;
   }
 
   .u-section-1 .u-group-1 {
-    min-height: 1145px;
     width: 940px;
-    margin-left: calc(((100% - 940px) / 2));
+    margin-left: 100px;
+    height: auto;
   }
 
   .u-section-1 .u-text-2 {
@@ -97,14 +103,13 @@
 }
 
 @media (max-width: 991px) {
-   .u-section-1 {
+  .u-section-1 .u-sheet-1 {
     min-height: 884px;
   }
 
   .u-section-1 .u-group-1 {
-    min-height: 1380px;
     width: 720px;
-    margin-left: calc(((100% - 720px) / 2));
+    margin-left: 210px;
   }
 
   .u-section-1 .u-text-2 {
@@ -124,12 +129,11 @@
 }
 
 @media (max-width: 767px) {
-   .u-section-1 {
-    min-height: 1670px;
+  .u-section-1 .u-sheet-1 {
+    min-height: 663px;
   }
 
   .u-section-1 .u-group-1 {
-    min-height: 1580px;
     width: 540px;
     margin-left: auto;
   }
@@ -145,12 +149,11 @@
 }
 
 @media (max-width: 575px) {
-   .u-section-1 {
-    min-height: 1051px;
+  .u-section-1 .u-sheet-1 {
+    min-height: 417px;
   }
 
   .u-section-1 .u-group-1 {
-    min-height: 1853px;
     width: 340px;
   }
 
